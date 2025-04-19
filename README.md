@@ -41,9 +41,6 @@ Admins have access to real-time statistics and performance reports about request
 ### 🔔 Real-Time Notifications
 Push notifications alert users about updates, responses, and new requests.
 
-### 🌐 Multilingual Support
-Supports Arabic and English for a flexible, user-friendly experience.
-
 ---
 
 ## 🧰 Technologies Used
